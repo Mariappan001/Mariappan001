@@ -1,4 +1,4 @@
-## 👋 Hello, I'm @Mariappan001
+## 👋 Hello, I'm @MariappanP
 
 - 🎯 I'm currently diving into the world of **Software Development**
 - 💡 I have a background in **Digital Marketing**, and I'm expanding my skills into tech
